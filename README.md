@@ -69,21 +69,10 @@ Software Engineering Student | Backend & System Developer 🚀</div>
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KalvinKhanh&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center"></div>  
