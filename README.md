@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Khánh! 
+### <div align="center">Hi 👋, I'm Khánh - Kalv1n! 
 Software Engineering Student | Backend & System Developer 🚀</div>  
   
 
@@ -16,7 +16,7 @@ Software Engineering Student | Backend & System Developer 🚀</div>
 - 🎯 Target: Earn my first $40K by 27 so I can buy tech gadgets without checking the price tag 💸💻  
   
 
-- 💭Aim: Live your dreams your ways.  
+- 💭Quote: Live your dreams your ways.  
   
 
 <br/>  
